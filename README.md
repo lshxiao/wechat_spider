@@ -33,9 +33,10 @@ per_page: 10, 固定值
 
 ```
 
-pypi下载地址: https://pypi.python.org/pypi/wechatSpider
-
-> 如果使用过程有问题, 请联系我
-> author: lshxiao
-> wechat: mianhuabingbei
-> blog: http://web.pxuexiao.com
+# 三、pypi下载地址: https://pypi.python.org/pypi/wechatSpider
+```python
+如果使用过程有问题, 请联系我
+author: lshxiao
+wechat: mianhuabingbei
+blog: http://web.pxuexiao.com
+```
